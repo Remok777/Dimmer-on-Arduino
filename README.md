@@ -4,7 +4,8 @@ That is a dimmer with timer, screen, and different options.
                                                                  
   TFT Display ST7789                                             
   RTC module DS1302                                              
-  AC Dimmer https://arduino.ua/prod2958-dimmer-220v-dlya-arduino 
+  AC Dimmer https://arduino.ua/prod2958-dimmer-220v-dlya-arduino
+  
   3 Buttons                                                      
                                                                  
   The schematic of connection:                                   
